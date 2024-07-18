@@ -1,0 +1,14 @@
+input and output:
+
+Welcome to Guess the Number Game!
+Try to guess the secret number between 1 and 100.
+Enter your guess: 50
+Try a higher number.
+Enter your guess: 75
+Try a lower number.
+Enter your guess: 60
+Try a higher number.
+Enter your guess: 65
+Try a lower number.
+Enter your guess: 62
+Congratulations! You guessed the correct number in 5 attempts.

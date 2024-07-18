@@ -1,0 +1,7 @@
+Directory Structure:
+
+src/
+└── com/
+    └── yourname/
+        └── game/
+            └── GuessNumberGame.java

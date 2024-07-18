@@ -1,0 +1,4 @@
+sh:
+
+javac src/com/yourname/game/GuessNumberGame.java
+java -cp src com.yourname.game.GuessNumberGame
